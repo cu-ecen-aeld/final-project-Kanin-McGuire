@@ -1,1 +1,5 @@
-
+config BR2_PACKAGE_BME280_DRIVER
+	bool "bme280-driver"
+	help
+	  Includes the bme280-driver in the kernel image.
+	  Used to understand buildroot external trees and package builds.
