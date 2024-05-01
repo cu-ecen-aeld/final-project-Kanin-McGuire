@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-BME280_DRIVER_VERSION = '2574970afe3489b3ba2f2a4875ad99bfb273a466'
+BME280_DRIVER_VERSION = 'ae3b008deaaf056a14d5e3aa44a07dd51c798217'
 BME280_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/final-project-thra6614.git'
 BME280_DRIVER_SITE_METHOD = git
 BME280_DRIVER_GIT_SUBMODULES = YES
